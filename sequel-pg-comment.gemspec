@@ -1,10 +1,7 @@
-require 'git-version-bump'
-
 Gem::Specification.new do |s|
 	s.name = "sequel-pg-comment"
 
-	s.version = GVB.version
-	s.date    = GVB.date
+	s.version = "3.0.0-pre0.0.1"
 
 	s.platform = Gem::Platform::RUBY
 
